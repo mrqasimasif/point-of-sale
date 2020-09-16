@@ -1,0 +1,13 @@
+C:\Users\qasim\source\repos\dbLab2\dbLab2\bin\Debug\dbLab2.exe
+C:\Users\qasim\source\repos\dbLab2\dbLab2\bin\Debug\dbLab2.exe.config
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.Form1.resources
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.Form2.resources
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.Form3.resources
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.Form4.resources
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.Properties.Resources.resources
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.csproj.GenerateResource.cache
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.csproj.CoreCompileInputs.cache
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.exe
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.pdb
+C:\Users\qasim\source\repos\dbLab2\dbLab2\obj\Debug\dbLab2.csprojAssemblyReference.cache
+C:\Users\qasim\source\repos\dbLab2\dbLab2\bin\Debug\dbLab2.pdb

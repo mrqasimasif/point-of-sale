@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbLab2", "dbLab2\dbLab2.csproj", "{0B495F23-B9F2-4CBC-89FD-786A825E77BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B495F23-B9F2-4CBC-89FD-786A825E77BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B495F23-B9F2-4CBC-89FD-786A825E77BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B495F23-B9F2-4CBC-89FD-786A825E77BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B495F23-B9F2-4CBC-89FD-786A825E77BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073D1F1C-3B1A-436E-BAF8-4CCA3D2CE845}
+	EndGlobalSection
+EndGlobal
