@@ -3,4 +3,4 @@ A POS transaction may occur in person or online, with receipts generated either 
 Cloud-based POS systems are becoming increasingly popular among merchants.</b>
 
 
-<a>https:/mrqasimasif.github.io</a>
+[Find me] (https://mrqasimasif.github.io)
